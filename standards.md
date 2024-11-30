@@ -8,7 +8,7 @@
 
 ---
 
-## Gartner Standards
+## Gartner
 
 | **Original (English)**                                                                                                                                                                                                                                                                                                                                                 | **Translation (ChatGPT)**                                                                                                                                                                                                                                                                                                                                                              | **Translation (Gemini)**                                                                                                                                                                                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,7 +17,7 @@
 ---
 
 ## Self-Summary
-**Standards** are explicit mandates or guidelines that ensure compatibility and performance conformity across systems or products. They are critical for the integration of hardware, software, and related infrastructure. Deviation from standards often results in usability or compatibility issues.
+**Standards** มาใส่ภาษาไทยด้วย
 
 ---
 
@@ -31,5 +31,5 @@
 ---
 
 ## URL
-**URL งาน ** [are explicit mandates or guidelines that ensure compatibility and performance conformity across systems or products. They are critical for the integration of hardware, software, and related infrastructure. Deviation from standards often results in usability or compatibility issues.](https://www.google.com/search?q=youtube&oq=you&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCQgCEEUYORiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDINCAYQABiDARixAxiABDIHCAcQABiPAjIHCAgQABiPAtIBCTQxNzRqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8)
+**URL งาน ** เพื่อนค่ะ(https://www.google.com/search?q=youtube&oq=you&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCQgCEEUYORiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDINCAYQABiDARixAxiABDIHCAcQABiPAjIHCAgQABiPAtIBCTQxNzRqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8)
 

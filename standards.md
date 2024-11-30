@@ -26,3 +26,10 @@
 | **ภาษาไทย**                                                                                   | **English**                                                                                  |
 |-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | "หน้าเว็บนี้แสดงผลแปลก ๆ อาจเป็นเพราะไม่ได้จัดรูปแบบตามมาตรฐานที่เบราว์เซอร์กำหนด"         | "This webpage displays oddly, probably because it’s not formatted according to the browser's standards." |
+
+
+---
+
+## URL
+**URL งาน ** [are explicit mandates or guidelines that ensure compatibility and performance conformity across systems or products. They are critical for the integration of hardware, software, and related infrastructure. Deviation from standards often results in usability or compatibility issues.](https://www.google.com/search?q=youtube&oq=you&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCQgCEEUYORiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDINCAYQABiDARixAxiABDIHCAcQABiPAjIHCAgQABiPAtIBCTQxNzRqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8)
+

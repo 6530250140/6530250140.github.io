@@ -31,7 +31,7 @@
 ---
 
 ## Link URL
-https://aum8362.github.io/standards
+<https://aum8362.github.io/standards>
 
 
 

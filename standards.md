@@ -30,7 +30,7 @@
 
 ---
 
-## Link ##URL ##<3
+## Link URL
 https://aum8362.github.io/standards
 
 

@@ -1,7 +1,8 @@
-# pattarapa #WONGWAI
+# PATTARAPA THAP-AMPHAN
 
-- pattarapa
-    - nadia
-    - 21
+- สวัสดีค่ะ ดิฉันชื่อเล่นว่า นาเดีย และนี่คือข้อมูลของฉัน <3 
+อายุ     -  21
+เกิดวันที่  -  30 กรกฎาคม 2003
+
 
 ![myprofile](img/profile.jpg)

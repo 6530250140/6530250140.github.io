@@ -1,6 +1,6 @@
 # Standards
 
-## ISC2 Standards
+## ISC2 
 
 | **Original (English)**                                                                                  | **Translation (ChatGPT)**                                                                                          | **Translation (Gemini)**                                                                                        |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -31,5 +31,5 @@
 ---
 
 ## URL
-**URL งาน ** เพื่อนค่ะ(https://www.google.com/search?q=youtube&oq=you&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCQgCEEUYORiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDINCAYQABiDARixAxiABDIHCAcQABiPAjIHCAgQABiPAtIBCTQxNzRqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8)
+**URL งาน ** ใส่ลิงอั้ม
 

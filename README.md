@@ -3,4 +3,4 @@
 - pattarapa
     - nadia
 
-[myprofile](img/profile.jfif)
+[myprofile](img/profile.jpg)

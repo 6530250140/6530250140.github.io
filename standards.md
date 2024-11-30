@@ -1,4 +1,4 @@
-# Standards Documentation
+# Standards
 
 ## ISC2 Standards
 

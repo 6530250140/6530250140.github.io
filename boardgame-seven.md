@@ -20,7 +20,7 @@ layout: default
 - ผู้ที่มาถึงเส้นชัยก่อนคือผู้ชนะ 🏅
 
 ### ภาพ/วิดีโอ กิจกรรม 🎞️
-![bgame-seven](img_bm/S__70680585.jpg)
+![bgame-seven](img_bm/bgame-seven.jpg)
 
 [👉 Click to watch the video 📽️](https://www.youtube.com/embed/STPLUa_MIZQ?si=wtrchwrzYyePwCC8)
 

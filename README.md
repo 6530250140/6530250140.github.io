@@ -7,3 +7,4 @@
 
 ![myprofile](img/profile.jpg)
 <https://6530250140.github.io/Hny>
+<https://6530250140.github.io/boardgame-seven.md>

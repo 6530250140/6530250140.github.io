@@ -53,7 +53,7 @@ layout: default
 ---
 
 ### สมาชิก
-- [go to page >]() 6530250140 - Pattarapa Thap-Amphan 
+- [go to page >](https://6530250140.github.io/boardgame-seven) 6530250140 - Pattarapa Thap-Amphan 
 - [go to page >]() 6530250174 - Pisitchai Wongsopon
 - [go to page >](https://wilaiphan.github.io/boardgame-seven) 6530250221 - Wilaiphan Kunlachet
 - [go to page >](https://panita18.github.io/boardgame-seven) 6530250417 - Panita Yapolha

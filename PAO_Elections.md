@@ -1,5 +1,5 @@
 ---
-title: Boardgame Seven
+title: PAO_Elections
 layout: default
 ---
 # 2025 PAO Elections
